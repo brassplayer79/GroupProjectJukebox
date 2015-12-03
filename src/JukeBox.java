@@ -19,7 +19,7 @@ public class JukeBox  //Project requirement: modifier - public and private are c
                     "Feliz Navidad",
                     "The First Noel",
                     "Santa Claus is Coming to Town",
-                    "Jingle Bell Rock"
+                    "Jingle Bell Rock\n"
             };
 
     private List<ChristmasSong> songs; //Project requirement: Polymorphism
